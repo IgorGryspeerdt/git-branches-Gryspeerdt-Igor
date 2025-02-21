@@ -1,1 +1,1 @@
-console.log("initial index")
+console.log("initial index");
